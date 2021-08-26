@@ -1,0 +1,24 @@
+.whatsappfloat
+{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.instagramfloat
+{
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+}
+.facebookfloat
+{
+    position: fixed;
+    bottom: 120px;
+    right: 20px;
+}
+.phonefloat
+{
+    position: fixed;
+    bottom: 170px;
+    right: 20px;
+}
